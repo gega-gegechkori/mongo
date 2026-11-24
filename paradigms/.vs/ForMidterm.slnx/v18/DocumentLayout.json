@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming paradigms\\ForMidterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\filestream4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:filestream4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\filestream3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:filestream3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\filestream2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:filestream2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\filestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:filestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\abstraqcia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:abstraqcia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\tvisebebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:tvisebebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\sakitxi_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:sakitxi_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\sakitxi_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:sakitxi_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|D:\\programming paradigms\\ForMidterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\nigga1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:nigga1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\nigga.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:nigga.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|d:\\programming paradigms\\formidterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6145A24-B0D2-B0A5-FF1A-3FAD5A45E6FD}|ForMidterm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412D43FD-94B4-4D1C-B707-AB5A186C8F16}|ForMidterm.csproj|D:\\programming paradigms\\ForMidterm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{412D43FD-94B4-4D1C-B707-AB5A186C8F16}|ForMidterm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T10:08:29.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exceptions.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\exceptions.cs",
+              "RelativeDocumentMoniker": "exceptions.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\exceptions.cs",
+              "RelativeToolTip": "exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T18:01:44.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fileStream.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\fileStream.cs",
+              "RelativeDocumentMoniker": "fileStream.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\fileStream.cs",
+              "RelativeToolTip": "fileStream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T15:51:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fileStream2.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\fileStream2.cs",
+              "RelativeDocumentMoniker": "fileStream2.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\fileStream2.cs",
+              "RelativeToolTip": "fileStream2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T18:06:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileStream3.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\fileStream3.cs",
+              "RelativeDocumentMoniker": "fileStream3.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\fileStream3.cs",
+              "RelativeToolTip": "fileStream3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:00:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fileStream4.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\fileStream4.cs",
+              "RelativeDocumentMoniker": "fileStream4.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\fileStream4.cs",
+              "RelativeToolTip": "fileStream4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:10:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "abstraqcia.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\abstraqcia.cs",
+              "RelativeDocumentMoniker": "abstraqcia.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\abstraqcia.cs",
+              "RelativeToolTip": "abstraqcia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:03:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tvisebebi.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\tvisebebi.cs",
+              "RelativeDocumentMoniker": "tvisebebi.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\tvisebebi.cs*",
+              "RelativeToolTip": "tvisebebi.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:27:41.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sakitxi_3.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\sakitxi_3.cs",
+              "RelativeDocumentMoniker": "sakitxi_3.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\sakitxi_3.cs",
+              "RelativeToolTip": "sakitxi_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T13:25:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sakitxi_2.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\sakitxi_2.cs",
+              "RelativeDocumentMoniker": "sakitxi_2.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\sakitxi_2.cs",
+              "RelativeToolTip": "sakitxi_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T12:51:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nigga.txt",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\nigga.txt",
+              "RelativeDocumentMoniker": "nigga.txt",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\nigga.txt",
+              "RelativeToolTip": "nigga.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-23T17:38:23.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T17:57:44.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nigga1.txt",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\nigga1.txt",
+              "RelativeDocumentMoniker": "nigga1.txt",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\nigga1.txt",
+              "RelativeToolTip": "nigga1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-23T18:35:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T18:06:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T18:35:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming paradigms\\ForMidterm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\programming paradigms\\ForMidterm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T09:58:33.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

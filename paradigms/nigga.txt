@@ -1,0 +1,3 @@
+striqoni 1
+striqoni 2
+striqoni 3
